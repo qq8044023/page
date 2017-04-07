@@ -1,5 +1,5 @@
 {
-  "name": "gd/pages",
+  "name": "uploadfile/file",
  "type": "project",
   "homepage": "http://www.houdunwang.com/",
   "license": "MIT",
@@ -16,7 +16,7 @@
   "autoload": {
     "files": [],
     "psr-4": {
-      "gd\\pages\\": "src"
+      "uploadfile\\file\\": "src"
     }
   }
 }

@@ -1,6 +1,6 @@
 <?php
-namespace gd\pages;
-class Pages {
+namespace uploadfile\file;
+class File {
 	public function demo(){
 	    echo 1;
 	}

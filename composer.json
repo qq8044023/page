@@ -1,15 +1,6 @@
 {
-  "name": "qq8044023/page",
-  "description": "分页组件可以产生基于当前页面的智能「范围」链接，所产生的 HTML 兼容 Bootstrap CSS 框架.",
-  "type": "project",
-  "keywords": [
-    "qq8044023",
-    "hdphp",
-    "后盾网",
-    "后盾人",
-    "page",
-    "后盾网向军"
-  ],
+  "name": "gd/pages",
+ "type": "project",
   "homepage": "http://www.houdunwang.com/",
   "license": "MIT",
   "authors": [
@@ -25,7 +16,7 @@
   "autoload": {
     "files": [],
     "psr-4": {
-      "qq8044023\\page\\": "src"
+      "gd\\pages\\": "src"
     }
   }
 }
